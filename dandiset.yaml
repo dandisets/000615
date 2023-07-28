@@ -11,7 +11,7 @@ assetsSummary:
   schemaKey: AssetsSummary
 citation: 'Cherepashensky, Mark (2023) A Novel Neuropathic Pain Treatment: Achieving
   Neuronal Inhibition with a Splti Ring Resonator (Version draft) [Data set]. DANDI
-  archive. https://dandiarchive.org/dandiset/000615/draft'
+  archive. https://doi.org/10.80507/dandi.123456/0.123456.1234'
 contributor:
 - affiliation: []
   email: themarkc@bu.edu
@@ -21,8 +21,10 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-07-25T18:21:02.715482+00:00'
+datePublished: '2023-07-28T21:16:03.434493+00:00'
 description: Thesis defense data set consisting of extracellular action potentials
   and postsynaptic potentials captured in Procambarus clarkii.
+doi: 10.80507/dandi.123456/0.123456.1234
 id: DANDI:000615/draft
 identifier: DANDI:000615
 license:
@@ -31,6 +33,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000615/versions/draft/assets/
 name: 'A Novel Neuropathic Pain Treatment: Achieving Neuronal Inhibition with a Splti
   Ring Resonator'
+publishedBy:
+  endDate: '2023-07-28T21:16:03.434493+00:00'
+  id: urn:uuid:3302dd42-4d0c-4ddc-87ef-b0e4442df555
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-07-28T21:16:03.434493+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:04ee6066-b962-4600-a66c-5e7d7d8192f4
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
