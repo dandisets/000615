@@ -6,9 +6,21 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 1805447304
+  numberOfFiles: 1
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_6728
+    name: Procambarus clarkii - Red swamp crayfish
+    schemaKey: SpeciesType
+  variableMeasured: []
 citation: 'Cherepashensky, Mark (2023) A Novel Neuropathic Pain Treatment: Achieving
   Neuronal Inhibition with a Splti Ring Resonator (Version draft) [Data set]. DANDI
   archive. https://doi.org/10.80507/dandi.123456/0.123456.1234'
